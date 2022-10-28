@@ -3,7 +3,7 @@
 <h1>Payloads para teclados Español Latam</h1>
 <hr>
 <p><em>La comunidad Latam también hackea...</em> He hecho estos scripts básicos para que puedan ser ejecutados en teclados ESP-LATAM
-cualquier principiante puede ejecutarlos. Un copiar pegar a nuestra IDE arduino y hora de jugar. Puedes modificar el tiempo con el DELAY sabemos que cada equipo tiene su tiempo para ejecutar tareas. POR FAVOR NO UTILIZAR EN COMPUTADORAS / EQUIPOS DE OTRA PERSONA U ORGANIZACIÓN. SOLO CON EL CONSENTIMIENTO DEL MISMO</p>
+cualquier principiante puede ejecutarlos.Es necesario tener instalado el Digikeyboard en Arduino y los Drivers para el Digispark que los puedes encontrar en RECURSOS. Un copiar pegar a nuestra IDE arduino y hora de jugar. Puedes modificar el tiempo con el DELAY sabemos que cada equipo tiene su tiempo para ejecutar tareas. POR FAVOR NO UTILIZAR EN COMPUTADORAS / EQUIPOS DE OTRA PERSONA U ORGANIZACIÓN. SOLO CON EL CONSENTIMIENTO DEL MISMO</p>
 
 <h1>-SCRIPTS- COPIAR , PEGAR Y A JUGAR</h1>
 <hr>
@@ -44,6 +44,8 @@ cualquier principiante puede ejecutarlos. Un copiar pegar a nuestra IDE arduino 
 ---
 * IDE ARDUINO https://www.arduino.cc/en/software
 * DIGISPARK https://www.amazon.com/-/es/Digispark-Kickstarter-Attiny85-General-desarrollo/dp/B0B5QX4FGN/ref=sr_1_9?keywords=digispark&qid=1666931516&qu=eyJxc2MiOiIzLjIyIiwicXNhIjoiMy4wNyIsInFzcCI6IjIuNzAifQ%3D%3D&sr=8-9
+* DIGIKEYBOARD https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
+* DIGISPARK DRIVERS https://github.com/digistump/DigistumpArduino/releases
 
 
 ## Autor
