@@ -51,4 +51,5 @@ cualquier principiante puede ejecutarlos.Es necesario tener instalado el Digikey
 ## Autor
 ---
 * Emiliano T.(@notfunnyboy69)
+* Especial agradecimiento a https://github.com/SpacehuhnTech <em>Vielen Dank, dass Sie uns wissen lassen, wie man Tastaturen verwendet</em>
 
